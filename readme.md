@@ -1,0 +1,1 @@
+This is my workspace for the Stanford Algorithms: Design and Analysis, Part 1 course on Coursera
